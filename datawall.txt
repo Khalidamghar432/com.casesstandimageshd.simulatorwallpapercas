@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "стандофф кейсы симулятор_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=1a0f6456fde750cd7ccbd4493a674b5901055921-10995124-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=22065a34eaf25d180ed5c30bd99c2e27f1062eba-10071482-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=71a146f360d9a7df1e79ebf6e814dc7d588f16c0-4276765-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=f77b2054b581fd6c9127ba934739ffc24e038173-10548602-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=50b2db413980a6dd5a4e9d8256e1b6d7c2843ce4-11387523-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=8167d4abe3d46c109e710905fb086ed0d7481193-5245376-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=398ebb57b1bfb3d581cfb5a54381b38efdf84a1c-10178110-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=2a0000018e60f1bd7710a791eea99b8560a5-1356491-fast-images&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_1",
+          "path": "https://avatars.mds.yandex.net/i?id=755e2da03bbf9415236ee3582d0ffc23b0bd8455-7744452-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "стандофф кейсы симулятор_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=398ebb57b1bfb3d581cfb5a54381b38efdf84a1c-10178110-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=969007fdd2f780cabc852bb484588df272c400c7-10868215-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=2a0000018e6152236bce68ee83bdaa03032b-775851-fast-images&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=398ebb57b1bfb3d581cfb5a54381b38efdf84a1c-10178110-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=969007fdd2f780cabc852bb484588df272c400c7-10868215-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=04ee8aaf737464a173ae95ca0999c01b97d5d3b9-8487335-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=c963c8d40752dce75370155b239b6d6167571801-9853136-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=1847b4bbb47727f5ef34a93c2eca50cba3d0cc5a-10511855-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_2",
+          "path": "https://avatars.mds.yandex.net/i?id=9c3845f451b85642a6cc934282e0c7b8d921237a-7554713-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "стандофф кейсы симулятор_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=c70a73579191e29e807a51d85e491cc78a7f68b3-11271031-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=ea45cf198c455286723d86581fe6bb161208c2e2-10952395-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=6366a16522e7b38c3091ab94067ca939d8e6e8c9-4958646-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=1e32e496318227f0427a81062cb503b0010be4cb-10836362-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=6160b4917e4f54a139434169352b41eb7e5017c0-12146892-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=14495e167e13084337fae25cef1f23fb7bb5dbb2-10310955-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=6e70febb6f5a9406f0c40103f0fca8f84bb8b9ae-12480039-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=4363a7ff53520a490247696d44a22c680ff09261-9289605-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "стандофф кейсы симулятор_3",
+          "path": "https://avatars.mds.yandex.net/i?id=27caf2fc2f159c6324bd64a007e4d10ba333970d-11944133-images-thumbs&n=13"
         }
       ]
     }
